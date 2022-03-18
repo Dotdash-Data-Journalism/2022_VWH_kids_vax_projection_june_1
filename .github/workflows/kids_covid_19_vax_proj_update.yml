@@ -2,7 +2,7 @@ name: kids_vax_proj_runner
 
 on:
   schedule:
-    - cron: '47 2 * * *'
+    - cron: '55 2 * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
