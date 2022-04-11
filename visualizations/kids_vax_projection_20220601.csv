@@ -1,53 +1,53 @@
 State/Territory/Federal District,Percent of total population fully vaccinated,Projected percent of 5-11 vaccinated by June 1,Projected percent of 12-17 vaccinated by June 1,Projected total population vaccinated by June 1
 United States,65.8%,30.8%,60.3%,68.2%
-Rhode Island,81.9%,52.3%,82.6%,83.6%
-Vermont,80.8%,58.5%,80.5%,81.5%
-Puerto Rico,82.6%,65.2%,84.5%,80.9%
-Maine,79%,43.5%,69.8%,80.5%
-Massachusetts,78.4%,52.1%,78.1%,79.9%
-Connecticut,78.7%,43.8%,76.4%,79.5%
-Maryland,75.8%,44.8%,79.9%,78.8%
-Hawaii,77.9%,45%,82.6%,78.3%
-District of Columbia,73.3%,49.1%,79.8%,77.1%
-New York,76.4%,39.2%,71.5%,77%
-New Jersey,75.2%,38.1%,72.3%,76.3%
-Washington,72.2%,39.1%,70.2%,75.3%
-Virginia,72.8%,42.5%,74.1%,74.4%
-California,71.3%,38.3%,72.3%,72.8%
-Colorado,69.9%,35%,66.6%,72.6%
-New Mexico,70.6%,34.3%,67.9%,71.8%
-Oregon,69.3%,34.8%,64.2%,71.5%
+Rhode Island,81.9%,52.2%,82.6%,83.6%
+Vermont,80.8%,58.4%,80.5%,81.5%
+Puerto Rico,82.6%,65%,84.4%,80.9%
+Maine,79%,43.4%,69.8%,80.4%
+Massachusetts,78.4%,52%,78.1%,79.9%
+Connecticut,78.7%,43.6%,76.3%,79.5%
+Maryland,75.8%,44.8%,79.8%,78.8%
+Hawaii,77.9%,44.8%,82.6%,78.3%
+District of Columbia,73.3%,48.9%,79.9%,77.2%
+New York,76.4%,39.1%,71.5%,77.1%
+New Jersey,75.2%,38%,72.3%,76.3%
+Washington,72.2%,39%,70.2%,75.3%
+Virginia,72.8%,42.4%,74.1%,74.4%
+California,71.4%,38.2%,72.3%,72.8%
+Colorado,69.9%,35%,66.6%,72.5%
+New Mexico,70.6%,34.2%,67.8%,71.8%
+Oregon,69.3%,34.9%,64.3%,71.6%
 Delaware,68.6%,31.4%,61.4%,70.9%
-New Hampshire,69.7%,36.1%,58.1%,70.7%
-Minnesota,68.9%,40.7%,64.1%,70.5%
+New Hampshire,69.7%,35.9%,58.1%,70.8%
+Minnesota,68.9%,40.6%,64.1%,70.5%
 Florida,66.6%,21.2%,56%,69.3%
 Pennsylvania,67.9%,32.3%,57%,69%
-Illinois,68.4%,39.4%,66.1%,68.9%
+Illinois,68.4%,39.3%,66%,68.9%
 Utah,64%,30.7%,63.9%,67.5%
-Wisconsin,65.2%,30.7%,54.7%,66.3%
-Nebraska,63.3%,30.8%,56.2%,65%
-Arizona,61.1%,29.3%,58.5%,64.4%
-Texas,61%,26.7%,59.7%,64%
-Nevada,60.4%,20.7%,52.6%,63.4%
-North Carolina,60.3%,25.6%,51.1%,62.9%
+Wisconsin,65.2%,30.6%,54.6%,66.3%
+Nebraska,63.3%,30.7%,56.2%,64.9%
+Arizona,61.1%,29.2%,58.4%,64.4%
+Texas,61.1%,26.6%,59.7%,64%
+Nevada,60.4%,20.6%,52.6%,63.4%
+North Carolina,60.3%,25.5%,51%,63%
 South Dakota,60.8%,26.5%,50.9%,62.9%
 Iowa,61.7%,25.4%,50.1%,62.6%
-Alaska,61.9%,27.5%,56.6%,62.3%
+Alaska,61.9%,27.4%,56.6%,62.3%
 Kansas,61%,24.4%,52.6%,61.8%
-Michigan,59.9%,26.3%,46.9%,60.7%
+Michigan,59.9%,26.2%,46.9%,60.7%
 Ohio,58.2%,23.7%,44.2%,59%
-South Carolina,56.6%,19%,45.2%,58.6%
-Montana,56.5%,21.6%,44.5%,58.2%
-Oklahoma,56.8%,17%,45.5%,58.2%
-Kentucky,57.1%,19.9%,44.6%,58.1%
-West Virginia,57.3%,16.2%,42.6%,57.2%
-Missouri,55.7%,20.7%,44.2%,56.7%
+South Carolina,56.6%,18.9%,45.1%,58.6%
+Montana,56.5%,21.5%,44.5%,58.2%
+Kentucky,57.1%,19.7%,44.5%,58.1%
+Oklahoma,56.8%,16.8%,45.4%,58.1%
+West Virginia,57.3%,16.1%,42.6%,57.2%
+Missouri,55.7%,20.6%,44.2%,56.7%
 Georgia,54.4%,16.9%,43.7%,56.3%
 Tennessee,54.2%,16.5%,39.1%,55.9%
-Indiana,54.6%,17.9%,41.6%,55.8%
-North Dakota,54.7%,21.6%,42.3%,55.4%
+Indiana,54.6%,17.8%,41.6%,55.8%
+North Dakota,54.7%,21.5%,42.3%,55.4%
 Arkansas,54.1%,17.8%,46.2%,55.2%
-Louisiana,53.3%,13.3%,39.1%,53.9%
-Mississippi,51.6%,12.8%,38.2%,52.2%
-Wyoming,51.3%,14.9%,37.9%,51.9%
-Alabama,50.8%,10.8%,34.8%,51.7%
+Louisiana,53.3%,13.3%,39%,53.8%
+Mississippi,51.6%,12.8%,38.1%,52.1%
+Wyoming,51.3%,14.8%,37.9%,51.9%
+Alabama,50.8%,10.7%,34.7%,51.7%
